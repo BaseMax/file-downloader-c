@@ -2,6 +2,8 @@
 
 This repository contains a simple C program designed to download files over an HTTP connection. The program can handle both text and binary files, saving them to your local system.
 
+> You can find the HTTPS version of this file downloader https://github.com/BaseMax/ssl-file-downloader-c
+
 ## Features
 
 - Supports HTTP: This program works with HTTP, connecting to the specified server to download the requested file.
